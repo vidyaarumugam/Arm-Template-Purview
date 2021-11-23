@@ -1,0 +1,27 @@
+Name,Definition,Nick Name,Parent Term Name,Status,Stewards,Experts
+AccountBalance,Balance in the account can be Opening Account Balance or Closing Account Balance. ,AccountBalance,Banking,Approved,1930156@tcs.com,1933940@tcs.com
+ActiveAccount,A bank account that is not dormant or inoperative or under an attachment order of the court or enforcement authorities in which there are regular transactions.,ActiveAccount,Banking,Approved,1930156@tcs.com,1933940@tcs.com
+BouncingOfCheque,"Where an account does not have sufficient balance to honour the cheque issued by the customer , the cheque is returned by the bank with the reason ""funds insufficient"" or ""Exceeds arrangement"".",BouncingOfACheque,Banking,Alert,1930156@tcs.com,1933940@tcs.com
+CreditScore,"A number, roughly between 300 and 800, that measures an individual's credit worthiness.",CreditScore,Banking,Approved,1930156@tcs.com,1933940@tcs.com
+CurrentAccount,Current account with a bank can be opened generally for business purpose. There are no restrictions on withdrawals and no interest is paid.,CurrentAccount,Banking,Draft,1930156@tcs.com,1933940@tcs.com
+DebitCard,A plastic card issued by banks to customers to withdraw money electronically from their accounts. When you purchase things on the basis of Debit Card the amount due is debited immediately to the account.,DebitCard,Banking,Approved,1930156@tcs.com,1933940@tcs.com
+DematAccount,"Dematerialised Account provides the facility of holding shares and securities in an electronic format. It holds all the investments an individual makes in shares, government securities, exchange-traded funds, bonds and mutual funds in one place.",DematAccount,Banking,Approved,1930156@tcs.com,1933940@tcs.com
+Identification,"When a person provides a document revealing his identity or is being identified by another person, who is known to the bank",Identification,Banking,Approved,1930156@tcs.com,1933940@tcs.com
+JointAccount,When two or more individuals jointly open an account with a bank.,JointAccount,Banking,Approved,1930156@tcs.com,1933940@tcs.com
+PersonalLoan,"Personal Loans helps to borrow money for expenditure of a personal nature – whether for an emergency, education, vacation or any other need like a wedding in the family.",PersonalLoan,Banking,Alert,1930156@tcs.com,1933940@tcs.com
+MultiCityCheques,"Multi-city cheques are denoted as MCC. MCC cheques can be en-cashed anywhere in India, irrespective of the city they were issued in. They are treated as local clearing cheques across the country. ",MultiCityCheques,Banking,Expired,1930156@tcs.com,1933940@tcs.com
+NationalElectronicFundTransfer,National Electronic Fund Transfer enables funds transfer from one bank to another and the settlement takes place in batches rather than individually,NationalElectronicFundTransfer,Banking,Approved,1930156@tcs.com,1933940@tcs.com
+PowerOfAttorney,A written instrument which authorizes one person to act as another's agent or attorney. ,PowerOfAttorney,Banking,Approved,1930156@tcs.com,1933940@tcs.com
+InterestRate,The amount paid by a borrower to a lender in exchange for the use of the lender's money for a certain period of time.,InterestRate,Banking,Approved,1930156@tcs.com,1933940@tcs.com
+LoanFee,A fee charged by a lender to make a loan,LoanFee,Banking,Approved,1930156@tcs.com,1933940@tcs.com
+Comaker,A person who signs a note to guarantee a loan made to another person and is jointly liable with the maker for repayment of the loan.,Comaker,Banking,Draft,1930156@tcs.com,1933940@tcs.com
+DebtToIncome,Debt-to-Income Ratio (DTI) is the percentage of a consumer's monthly gross income that goes toward paying debts.,DebtToIncome,Banking,Alert,1930156@tcs.com,1933940@tcs.com
+Term,The period of time and the interest rate arranged between creditor and debtor to repay a loan.,Term,Banking,Approved,1930156@tcs.com,1933940@tcs.com
+IndiaFinancialSystemCode,India Financial System Code (IFSC) is an 11-digit alphanumeric (letters and numbers) code that helps identify bank branches.,IndiaFinancialSystemCode,Banking,Approved,1930156@tcs.com,1933940@tcs.com
+MagneticInkCharacterRecognition,Magnetic Ink Character Recognition is a nine-digit number printed on banking instruments such as a cheque or a demand draft using a special type of ink made of magnetic material.,MagneticInkCharacterRecognition,Banking,Approved,1930156@tcs.com,1933940@tcs.com
+ChequeTruncation,Truncates or stops the flow of cheques through the banking system.,ChequeTruncation,Banking,Approved,1930156@tcs.com,1933940@tcs.com
+CrossingOfCheque,Crossing refers to drawing two parallel lines across the face of the cheque.,CrossingOfCheque,Banking,Approved,1930156@tcs.com,1933940@tcs.com
+DishonourOfCheque,Non-payment of a cheque by the paying banker with a return memo giving reasons for the non-payment.,DishonourOfCheque,Banking,Approved,1930156@tcs.com,1933940@tcs.com
+CardVerificationValue,Card verification value (CVV) is an anti-fraud security feature that helps verify that you are in possession of your credit card and making the transaction.,CardVerificationValue,Banking,Approved,1930156@tcs.com,1933940@tcs.com
+DirectDeposit,A payment that is electronically deposited into an individual's account at a depository institution.,DirectDeposit,Banking,Approved,1930156@tcs.com,1933940@tcs.com
+BusinessDay,Any day on which offices of a bank are open to the public for carrying on substantially all of the bank's business.,BusinessDay,Banking,Approved,1930156@tcs.com,1933940@tcs.com
